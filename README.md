@@ -17,3 +17,5 @@ This is the Sentinal lab Demonstration of trigger the security events from the a
 [Writing Response Action for the Incident](/Creating_Playbook.md)
 
 [Setting Trigger to run response when incident created](/Automation_rule.md)
+
+[Output](/Outputs.md)
