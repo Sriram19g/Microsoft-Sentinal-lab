@@ -54,3 +54,7 @@ We need to write an Analytic Rules to Create the incident from the raw logs.
    ```
 
 ---
+
+## Incidents created when the event occur
+
+![Incidents](/images/incidents.png)
