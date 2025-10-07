@@ -11,3 +11,6 @@ This is the Sentinal lab Demonstration of trigger the security events from the a
 [Initial Azure Setup](/Initial_Setup.md)
 
 [Get Raw Data from the Virtual Machine](/Get_Logs_From_VM.md)
+
+[Creating Incidents from the logs](/Creating_Incident.md)
+
